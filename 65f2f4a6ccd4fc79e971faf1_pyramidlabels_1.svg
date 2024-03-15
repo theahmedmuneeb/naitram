@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2533.78 1904.57">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_35);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_38);
+      }
+
+      .cls-3 {
+        fill: url(#_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_44);
+      }
+
+      .cls-4 {
+        fill: url(#_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_35-2);
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        fill: #009540;
+      }
+
+      .cls-9 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-15 {
+        fill: none;
+        stroke: #007532;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-16 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-17 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        fill: #00692d;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-20 {
+        fill: #fff;
+        font-family: Nexa-Bold, Nexa;
+        font-size: 44px;
+        font-weight: 700;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        fill: #007532;
+      }
+
+      .cls-23 {
+        isolation: isolate;
+      }
+
+      .cls-24 {
+        letter-spacing: -.07em;
+      }
+    </style>
+    <radialGradient id="_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_44" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 44" cx="66725.58" cy="-1198041.86" fx="66725.58" fy="-1198041.86" r="4057.62" gradientTransform="translate(-9372.53 107402.75) scale(.15 .09)" gradientUnits="userSpaceOnUse">
+      <stop offset=".16" stop-color="#6e6e70"/>
+      <stop offset=".25" stop-color="#878788"/>
+      <stop offset=".42" stop-color="#b1b1b3"/>
+      <stop offset=".58" stop-color="#d3d3d4"/>
+      <stop offset=".74" stop-color="#ebebeb"/>
+      <stop offset=".88" stop-color="#f9f9fa"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_35" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 35" cx="68901.63" cy="-1194132.2" fx="68901.63" fy="-1194132.2" r="3134.91" gradientTransform="translate(-9042.71 86386.26) scale(.14 .07)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6e6e70"/>
+      <stop offset=".23" stop-color="#9d9d9f"/>
+      <stop offset=".47" stop-color="#c7c7c8"/>
+      <stop offset=".69" stop-color="#e5e5e6"/>
+      <stop offset=".87" stop-color="#f8f8f8"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_35-2" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 35" cx="68625.36" cy="-1196180.65" fx="68625.36" fy="-1196180.65" r="1868.56" gradientTransform="translate(-9089.42 85880.22) scale(.15 .07)" xlink:href="#_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_35"/>
+    <radialGradient id="_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_38" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 38" cx="76436.44" cy="-1180257.45" fx="76436.44" fy="-1180257.45" r="1224.05" gradientTransform="translate(-8198.04 59771.94) scale(.12 .05)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#704444"/>
+      <stop offset=".13" stop-color="#8b6767"/>
+      <stop offset=".35" stop-color="#b49d9d"/>
+      <stop offset=".55" stop-color="#d4c7c7"/>
+      <stop offset=".73" stop-color="#ebe5e5"/>
+      <stop offset=".89" stop-color="#f9f8f8"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <g class="cls-23">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <g>
+          <polygon class="cls-6" points="1623.06 1194.21 1266.35 1018.41 909.43 842.5 895.72 835.74 882.01 842.5 525.09 1018.41 168.38 1194.21 168.31 1194.32 356.83 1287.24 895.72 1552.83 1434.6 1287.24 1623.13 1194.32 1623.06 1194.21"/>
+          <ellipse class="cls-3" cx="893.33" cy="1263.43" rx="624.23" ry="364.49"/>
+          <polygon class="cls-5" points="356.83 1287.24 168.31 1194.32 0 1463.11 895.72 1904.57 895.72 1552.83 356.83 1287.24"/>
+          <polygon class="cls-7" points="1623.13 1194.32 1434.6 1287.24 895.72 1552.83 895.72 1904.57 1791.44 1463.11 1623.13 1194.32"/>
+        </g>
+        <g>
+          <polygon class="cls-6" points="1429.47 873.67 1088.88 705.8 895.72 610.61 702.56 705.8 361.97 873.67 361.87 873.83 541.82 962.52 721.91 1051.28 895.72 1136.94 1069.53 1051.28 1249.62 962.52 1429.57 873.83 1429.47 873.67"/>
+          <ellipse class="cls-1" cx="879.06" cy="909.08" rx="451.39" ry="227.53"/>
+          <polygon class="cls-5" points="721.91 1051.28 541.82 962.52 361.87 873.83 201.21 1130.39 201.15 1130.49 381.16 1219.21 895.72 1472.82 895.72 1136.94 721.91 1051.28"/>
+          <polygon class="cls-7" points="1590.22 1130.39 1429.57 873.83 1249.62 962.52 1069.53 1051.28 895.72 1136.94 895.72 1472.82 1410.28 1219.21 1590.29 1130.49 1590.22 1130.39"/>
+        </g>
+        <g>
+          <polygon class="cls-6" points="1243.54 568.54 926.18 412.13 895.72 397.12 865.25 412.13 547.89 568.54 547.84 568.63 715.62 651.32 883.51 734.07 895.72 740.08 907.93 734.07 1075.82 651.32 1243.6 568.63 1243.54 568.54"/>
+          <ellipse class="cls-4" cx="885.21" cy="604.5" rx="271.58" ry="135.07"/>
+          <polygon class="cls-7" points="1393.38 807.83 1243.6 568.63 1075.82 651.32 907.93 734.07 895.72 740.08 895.72 1053.31 1057.78 973.44 1225.69 890.68 1393.48 807.99 1393.38 807.83"/>
+          <polygon class="cls-5" points="883.51 734.07 715.62 651.32 547.84 568.63 398.05 807.83 397.96 807.99 565.74 890.68 733.66 973.44 895.72 1053.31 895.72 740.08 883.51 734.07"/>
+        </g>
+        <g>
+          <polygon class="cls-6" points="1073.82 290.28 895.72 202.5 717.61 290.28 717.24 290.87 868.28 365.31 895.72 378.84 923.16 365.31 1074.2 290.87 1073.82 290.28"/>
+          <ellipse class="cls-2" cx="895.15" cy="302.84" rx="145.61" ry="62.53"/>
+          <polygon class="cls-5" points="868.28 365.31 717.24 290.87 582.4 506.21 582.35 506.28 733.49 580.77 884.72 655.31 895.72 660.73 895.72 378.84 868.28 365.31"/>
+          <polygon class="cls-7" points="1209.04 506.21 1074.2 290.87 923.16 365.31 895.72 378.84 895.72 660.73 906.71 655.31 1057.95 580.77 1209.09 506.28 1209.04 506.21"/>
+        </g>
+        <g>
+          <polygon class="cls-5" points="743.56 242.98 743.25 243.49 872.28 307.08 895.72 318.64 895.72 0 743.56 242.98"/>
+          <polygon class="cls-7" points="1047.87 242.98 895.72 0 895.72 318.64 919.16 307.08 1048.19 243.49 1047.87 242.98"/>
+        </g>
+        <rect class="cls-15" x="1074.2" y="34.64" width="740.84" height="152.74" rx="39.68" ry="39.68"/>
+        <text class="cls-20" transform="translate(1392.77 126.06)"><tspan class="cls-16" x="0" y="0">F</tspan><tspan x="26.93" y="0">ans</tspan></text>
+        <rect class="cls-15" x="1252.71" y="291.89" width="740.84" height="152.74" rx="39.68" ry="39.68"/>
+        <text class="cls-20" transform="translate(1486 382.7)"><tspan class="cls-21" x="0" y="0">M</tspan><tspan x="39.25" y="0">usic</tspan><tspan class="cls-11" x="121.09" y="0"> </tspan><tspan x="130.68" y="0">Artists</tspan></text>
+        <rect class="cls-15" x="1421.02" y="579.59" width="740.84" height="152.74" rx="39.68" ry="39.68"/>
+        <text class="cls-20" transform="translate(1488.26 667.34)"><tspan class="cls-22" x="0" y="0">E</tspan><tspan class="cls-8" x="28.42" y="0">v</tspan><tspan x="52.54" y="0">e</tspan><tspan class="cls-10" x="78.14" y="0">n</tspan><tspan x="104.59" y="0">t </tspan><tspan class="cls-18" x="133.45" y="0">O</tspan><tspan class="cls-19" x="168.61" y="0">r</tspan><tspan x="187.49" y="0">ganisers/</tspan><tspan class="cls-12" x="390.67" y="0">M</tspan><tspan x="429.61" y="0">anagers</tspan></text>
+        <rect class="cls-15" x="1629.78" y="867.62" width="740.84" height="152.74" rx="39.68" ry="39.68"/>
+        <text class="cls-20" transform="translate(1755.04 957.56)"><tspan class="cls-24" x="0" y="0">V</tspan><tspan x="28.82" y="0">enues/ </tspan><tspan class="cls-14" x="188.36" y="0">R</tspan><tspan x="218.99" y="0">e</tspan><tspan class="cls-13" x="244.59" y="0">c</tspan><tspan x="266.46" y="0">o</tspan><tspan class="cls-19" x="292.33" y="0">r</tspan><tspan x="311.21" y="0">d </tspan><tspan class="cls-21" x="350.15" y="0">L</tspan><tspan x="375.76" y="0">abels</tspan></text>
+        <rect class="cls-15" x="1791.44" y="1200.87" width="740.84" height="152.74" rx="39.68" ry="39.68"/>
+        <text class="cls-20" transform="translate(1999.46 1292.33)"><tspan x="0" y="0">Tic</tspan><tspan class="cls-9" x="59.75" y="0">k</tspan><tspan x="81.04" y="0">et Plat</tspan><tspan class="cls-17" x="222.86" y="0">f</tspan><tspan x="239.66" y="0">orm</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
